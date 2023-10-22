@@ -7,6 +7,8 @@ sudo apt-get install fuse libfuse2
 curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim.appimage
 chmod u+x nvim.appimage
 ./nvim.appimage
+
+sudo mv nvim.appimage /usr/bin/nvim
 ```
 
 To install this for your neovim configuration
