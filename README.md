@@ -25,3 +25,8 @@ Restart Neovim and install the treesitter syntax
 ```
 :TSInstall python
 ```
+
+Install Mason package fro python setup according to https://www.youtube.com/watch?v=4BnVeOUeZxc
+```
+:MasonInstallAll
+```
